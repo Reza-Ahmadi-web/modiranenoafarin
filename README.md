@@ -1,12 +1,12 @@
 Modiranenoafarin Website
 
 <p align="center">
-  <img src="screenshots/homepage.png" width="45%">
-    <img src="screenshots/Club.png" width="45%">
+  <img src="screenshots/homepage.png" width="50%">
+    <img src="screenshots/Club.png" width="50%">
 </p>
 <p align="center">
-  <img src="screenshots/About-page.png" width="25%">
-    <img src="screenshots/Blog-page.png" width="45%">
+  <img src="screenshots/About-page.png" width="50%">
+    <img src="screenshots/Blog-page.png" width="50%">
 </p>
 
 Overview
